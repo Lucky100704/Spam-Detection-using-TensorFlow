@@ -32,3 +32,4 @@ from sklearn.metrics import confusion_matrix
 %load_ext tensorboard
 
 This algorithm detects whether the message is a spam or ham
+This algorithm is trained on the given messages dataset using BiSTM
